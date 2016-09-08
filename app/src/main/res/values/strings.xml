@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App Portifolio</string>
+    <string name="Toast_LaunchText">This button will launch my %1$s app!</string>
+    <string name="Toast_LaunchDefaultText">Something unexpected happened while launching this app.</string>
+    <string name="btnPopularMovies_ToastText">Popular Movies</string>
+    <string name="btnStockHawk_ToastText">Stock Hawk</string>
+    <string name="btnBuildItBigger_ToastText">Build It Bigger</string>
+    <string name="btnMakeYourAppMaterial_ToastText">Make Your App Material</string>
+    <string name="btnGoUbiquitous_ToastText">Go Ubiquitous</string>
+    <string name="btnCapstone_ToastText">Capstone</string>
+</resources>
